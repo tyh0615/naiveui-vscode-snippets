@@ -28,86 +28,86 @@ ext install vidyasagar.naiveui-vscode-snippets
 
 ### Vue
 
-| Snippet   | Naive Tag                   |
-| ----------| --------------------------- |
-| `nava`    | `<n-avatar>`                | 
-| `nb`      | `<n-button>`                |
-| `nbg`     | `<n-button-group>`          |
-| `ncard`   | `<n-card>`                  |
-| `ncolla`  | `<n-collapse>`              |
-| `ncollai` | `<n-collapse-item>`         |
-| `ndiv`    | `<n-divider>`               |
-| `ndro`    | `<n-dropdown>`              |
-| `nel`     | `<n-ellipsis>`              |
-| `ngt`     | `<n-ellipsis>`              |
-| `nic`     | `<n-icon>`                  |
-| `nta`     | `<n-tag>`                   |
-| `nau`     | `<n-auto-complete>`         |
-| `ncas`    | `<n-cascader>`              |
-| `ncp`     | `<n-color-picker>`          |
-| `nc`      | `<n-checkbox>`              |
-| `ncg`     | `<n-checkbox-group>`        |
-| `ndp`     | `<n-date-picker>`           |
-| `ndyi`    | `<n-dynamic-input>`         |
-| `ndyt`    | `<n-dynamic-tags>`          |
-| `nf`      | `<n-form>`                  |
-| `nipt`    | `<n-input>`                 |
-| `niptn`   | `<n-input-number>`          |
-| `nmen`    | `<n-mention>`               |
-| `nr`      | `<n-radio>`                 |
-| `nrg`     | `<n-radio-group>`           |
-| `nra`     | `<n-rate>`                  |
-| `nsel`    | `<n-select>`                |
-| `nsl`     | `<n-slider>`                |
-| `nsw`     | `<n-switch>`                |
-| `ntp`     | `<n-time-picker>`           |
-| `ntr`     | `<n-transfer>`              |
-| `nup`     | `<n-upload>`                |
-| `ncal`    | `<n-calendar>`              |
-| `ndt`     | `<n-data-table>`            |
-| `ndes`    | `<n-descriptions>`          |
-| `nemp`    | `<n-empty>`                 |
-| `nim`     | `<n-image>`                 |
-| `nimg`    | `<n-image-group>`           |
-| `nl`      | `<n-list>`                  |
-| `nli`     | `<n-list-item>`             |
-| `nsta`    | `<n-statistic>`             |
-| `nt`      | `<n-table>`                 |
-| `nth`     | `<n-thing>`                 |
-| `ntim`    | `<n-time>`                  |
-| `ntl`     | `<n-timeline>`              |
-| `ntli`    | `<n-timeline-item>`         |
-| `ntree`   | `<n-tree>`                  |
-| `naf`     | `<n-affix>`                 |
-| `nan`     | `<n-anchor>`                |
-| `nbt`     | `<n-back-top>`              |
-| `nbr`     | `<n-breadcrumb>`            |
-| `nm`      |  `<n-menu>`                 |
-| `np`      |  `<n-pagination>`           |
-| `nst`     | `<n-steps>`                 |
-| `ntabs`   | `<n-tabs>`                  |
-| `ntabp`   | `<n-tab-pane>`              |
-| `nal`     | `<n-alert>`                 |
-| `nba`     | `<n-badge>`                 |
-| `ndr`     | `<n-drawer>`                |
-| `nmo`     | `<n-modal>`                 |
-| `npopc`   | `<n-popconfirm>`            |
-| `npopo`   | `<n-popover>`               |
-| `npops`   | `<n-popselect>`             |
-| `npro`    | `<n-progress>`              |
-| `nres`    | `<n-result>`                |
-| `nsk`     | `<n-skeleton>`              |
-| `nsp`     | `<n-spin>`                  |
-| `nto`     | `<n-tooltip>`               |
-| `nla`     | `<n-layout>`                |
-| `ngr`     | `<n-grid>`                  |
-| `ngri`    | `<n-grid-item>`             |
-| `ns`      | `<n-space>`                 |
-| `nload`   | `<n-loading-bar-provider>`  |
-| `ndi`     | `<n-dialog-provider>`       |
-| `nmes`    | `<n-message-provider>`      |
-| `nno`     | `<n-nofitication-provider>` |
-| `nco`     | `<n-config-provider>`       |
+| Snippet   | Naive Tag (paramCase)           |Naive Tag (pascalCase)           |
+| ----------| --------------------------- | --------------------------- |
+| `nava`    | `<n-avatar>`                |   `<NAvatar>`                | 
+| `nb`      | `<n-button>`                |  `<NButton>`                |
+| `nbg`     | `<n-button-group>`          |  `<NButtonGroup>`          |
+| `ncard`   | `<n-card>`                  |  `<NCard>`                  |
+| `ncolla`  | `<n-collapse>`              |  `<NCollapse>`              |
+| `ncollai` | `<n-collapse-item>`         |  `<NCollapseItem>`         |
+| `ndiv`    | `<n-divider>`               |  `<NDivider>`               |
+| `ndro`    | `<n-dropdown>`              |  `<NDropdown>`              |
+| `nel`     | `<n-ellipsis>`              |  `<NEllipsis>`              |
+| `ngt`     | `<n-ellipsis>`              |  `<NEllipsis>`              |
+| `nic`     | `<n-icon>`                  |  `<NIcon>`                  |
+| `nta`     | `<n-tag>`                   |  `<NTag>`                   |
+| `nau`     | `<n-auto-complete>`         |  `<NAutoComplete>`         |
+| `ncas`    | `<n-cascader>`              |  `<NCascader>`              |
+| `ncp`     | `<n-color-picker>`          |  `<NColorPicker>`          |
+| `nc`      | `<n-checkbox>`              |  `<NCheckbox>`              |
+| `ncg`     | `<n-checkbox-group>`        |  `<NCheckboxGroup>`        |
+| `ndp`     | `<n-date-picker>`           |  `<NDatePicker>`           |
+| `ndyi`    | `<n-dynamic-input>`         |  `<NDynamicInput>`         |
+| `ndyt`    | `<n-dynamic-tags>`          |  `<NDynamicTags>`          |
+| `nf`      | `<n-form>`                  |  `<NForm>`                  |
+| `nipt`    | `<n-input>`                 |  `<NInput>`                 |
+| `niptn`   | `<n-input-number>`          |  `<NInputNumber>`          |
+| `nmen`    | `<n-mention>`               |  `<NMention>`               |
+| `nr`      | `<n-radio>`                 |  `<NRadio>`                 |
+| `nrg`     | `<n-radio-group>`           |  `<NRadioGroup>`           |
+| `nra`     | `<n-rate>`                  |  `<NRate>`                  |
+| `nsel`    | `<n-select>`                |  `<NSelect>`                |
+| `nsl`     | `<n-slider>`                |  `<NSlider>`                |
+| `nsw`     | `<n-switch>`                |  `<NSwitch>`                |
+| `ntp`     | `<n-time-picker>`           |  `<NTimePicker>`           |
+| `ntr`     | `<n-transfer>`              |  `<NTransfer>`              |
+| `nup`     | `<n-upload>`                |  `<NUpload>`                |
+| `ncal`    | `<n-calendar>`              |  `<NCalendar>`              |
+| `ndt`     | `<n-data-table>`            |  `<NDataTable>`            |
+| `ndes`    | `<n-descriptions>`          |  `<NDescriptions>`          |
+| `nemp`    | `<n-empty>`                 |  `<NEmpty>`                 |
+| `nim`     | `<n-image>`                 |  `<NImage>`                 |
+| `nimg`    | `<n-image-group>`           |  `<NImageGroup>`           |
+| `nl`      | `<n-list>`                  |  `<NList>`                  |
+| `nli`     | `<n-list-item>`             |  `<NListItem>`             |
+| `nsta`    | `<n-statistic>`             |  `<NStatistic>`             |
+| `nt`      | `<n-table>`                 |  `<NTable>`                 |
+| `nth`     | `<n-thing>`                 |  `<NThing>`                 |
+| `ntim`    | `<n-time>`                  |  `<NTime>`                  |
+| `ntl`     | `<n-timeline>`              |  `<NTimeline>`              |
+| `ntli`    | `<n-timeline-item>`         |  `<NTimelineItem>`         |
+| `ntree`   | `<n-tree>`                  |  `<NTree>`                  |
+| `naf`     | `<n-affix>`                 |  `<NAffix>`                 |
+| `nan`     | `<n-anchor>`                |  `<NAnchor>`                |
+| `nbt`     | `<n-back-top>`              |  `<NBackTop>`              |
+| `nbr`     | `<n-breadcrumb>`            |  `<NBreadcrumb>`            |
+| `nm`      |  `<n-menu>`                 |   `<NMenu>`                 |
+| `np`      |  `<n-pagination>`           |   `<NPagination>`           |
+| `nst`     | `<n-steps>`                 |  `<NSteps>`                 |
+| `ntabs`   | `<n-tabs>`                  |  `<NTabs>`                  |
+| `ntabp`   | `<n-tab-pane>`              |  `<NTabPane>`              |
+| `nal`     | `<n-alert>`                 |  `<NAlert>`                 |
+| `nba`     | `<n-badge>`                 |  `<NBadge>`                 |
+| `ndr`     | `<n-drawer>`                |  `<NDrawer>`                |
+| `nmo`     | `<n-modal>`                 |  `<NModal>`                 |
+| `npopc`   | `<n-popconfirm>`            |  `<NPopconfirm>`            |
+| `npopo`   | `<n-popover>`               |  `<NPopover>`               |
+| `npops`   | `<n-popselect>`             |  `<NPopselect>`             |
+| `npro`    | `<n-progress>`              |  `<NProgress>`              |
+| `nres`    | `<n-result>`                |  `<NResult>`                |
+| `nsk`     | `<n-skeleton>`              |  `<NSkeleton>`              |
+| `nsp`     | `<n-spin>`                  |  `<NSpin>`                  |
+| `nto`     | `<n-tooltip>`               |  `<NTooltip>`               |
+| `nla`     | `<n-layout>`                |  `<NLayout>`                |
+| `ngr`     | `<n-grid>`                  |  `<NGrid>`                  |
+| `ngri`    | `<n-grid-item>`             |  `<NGridItem>`             |
+| `ns`      | `<n-space>`                 |  `<NSpace>`                 |
+| `nload`   | `<n-loading-bar-provider>`  |  `<NLoadingBarProvider>`  |
+| `ndi`     | `<n-dialog-provider>`       |  `<NDialogProvider>`       |
+| `nmes`    | `<n-message-provider>`      |  `<NMessageProvider>`      |
+| `nno`     | `<n-nofitication-provider>` |  `<NNofiticationProvider>` |
+| `nco`     | `<n-config-provider>`       |  `<NConfigProvider>`       |
 
 
 ## Contributing
